@@ -1,7 +1,6 @@
 
 import math
 from random import random
-from blist import blist
 from mod_arith import Mod
 
 
